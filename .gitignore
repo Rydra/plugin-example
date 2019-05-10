@@ -1,0 +1,6 @@
+
+\.idea/
+
+plugin_exercise/__pycache__/
+
+plugin_exercise/plugins/__pycache__/
